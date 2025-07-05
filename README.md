@@ -11,7 +11,7 @@
 
 ---
 
-### 💡 My Best Project 2025 :
+### 💡 My Best Project of 2025 :
 - 🩷 Lead ML Engineer @ **BumpCare**, a maternal health risk detection platform  
   → Built models with **TensorFlow** & **Keras** achieving 99% accuracy on nutrition classification  
   → Developed MLP models, RESTful APIs (Hapi.js), front-end with **React.js**, and designed with **Figma**
