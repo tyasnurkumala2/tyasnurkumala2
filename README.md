@@ -1,5 +1,5 @@
 
-![Tyas Nur Kumala](img/githead.png)
+![Tyas Nur Kumala](githead.png)
 
 
 ## 💗 Hello, World! 💻✨ I'm Tyas Nur Kumala 🩷
