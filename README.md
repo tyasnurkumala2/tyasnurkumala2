@@ -8,15 +8,17 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tyas-nur-kumala-939a16262/"><img src="https://img.shields.io/badge/LinkedIn-Town%20Square-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:tyasnurkumala2@gmail.com"><img src="https://img.shields.io/badge/Email-Farm%20Mailbox-b45f4d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/tyasnurkumala2?tab=followers"><img src="https://img.shields.io/github/followers/tyasnurkumala2?label=Followers&style=for-the-badge&color=78a65a" alt="Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=tyasnurkumala2&label=Farm%20Visitors&color=6f42c1&style=for-the-badge" alt="Profile visitors"/>
+  <a href="https://www.linkedin.com/in/tyas-nur-kumala-939a16262/"><img src="./assets/icons/network.webp" width="56" alt="LinkedIn"/><br/><b>Town Square</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tyasnurkumala2@gmail.com"><img src="./assets/icons/email.webp" width="56" alt="Email"/><br/><b>Farm Mail</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tyasnurkumala2?tab=followers"><img src="./assets/icons/followers.webp" width="56" alt="Followers"/><br/><b>Villagers</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tyasnurkumala2"><img src="./assets/icons/visitors.webp" width="56" alt="Profile"/><br/><b>Visit Farm</b></a>
 </div>
 
-## 🌱 About the Farmer
+## <img src="./assets/icons/farmer.webp" width="36" align="center" alt=""/> About the Farmer
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tyasnurkumala2&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 
 I'm **Tyas Nur Kumala**, an Informatics Engineering — International Class student at **Telkom University**. I enjoy turning data into useful insights and building intelligent solutions that create meaningful impact.
 
@@ -35,24 +37,26 @@ tyas = {
 }
 ```
 
-## 🎒 Farmer's Inventory
+## <img src="./assets/icons/inventory.webp" width="36" align="center" alt=""/> Farmer's Inventory
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,postgres,mysql,git,github,docker,vscode,figma&perline=11" alt="Technology stack"/>
+  <img src="./assets/icons/python.png" width="72" alt="Python"/>&nbsp;&nbsp;
+  <img src="./assets/icons/machine-learning.png" width="72" alt="Machine Learning"/>&nbsp;&nbsp;
+  <img src="./assets/icons/data.png" width="72" alt="Data"/>&nbsp;&nbsp;
+  <img src="./assets/icons/developer-tools.png" width="72" alt="Developer Tools"/>
+  <br/>
+  <sub><b>Python · Machine Learning · Data · Developer Tools</b></sub><br/>
+  <sub>TensorFlow · PyTorch · scikit-learn · PostgreSQL · MySQL · Git · Docker · Figma</sub>
 </div>
 
-## 🌸 Featured Quest
+## <img src="./assets/icons/quest.webp" width="36" align="center" alt=""/> Featured Quest
 
-<div align="center">
-  <a href="https://github.com/tyasnurkumala2/BumpCare-Capstone-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyasnurkumala2&repo=BumpCare-Capstone-Project&hide_border=true&title_color=78a65a&icon_color=e89a6a&text_color=6f5138&bg_color=fffaf0" alt="BumpCare repository"/>
-  </a>
-  <a href="https://github.com/tyasnurkumala2/BumpCare-ML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tyasnurkumala2&repo=BumpCare-ML&hide_border=true&title_color=78a65a&icon_color=e89a6a&text_color=6f5138&bg_color=fffaf0" alt="BumpCare ML repository"/>
-  </a>
-</div>
+| Project | What it grows | Explore |
+|---|---|---|
+| **BumpCare Capstone** | Maternal-health risk detection application | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-Capstone-Project) |
+| **BumpCare ML** | Machine-learning experiments and models | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-ML) |
 
-## 🌏 International Mobility Programme
+## <img src="./assets/icons/mobility.webp" width="36" align="center" alt=""/> International Mobility Programme
 
 > **Student Mobility Programme 2023**  
 > Universiti Malaya Students' Union · September 2023
@@ -60,7 +64,7 @@ tyas = {
 This international experience expanded my academic perspective, cross-cultural communication, and global connections.
 
 <details open>
-<summary><h2>🏛️ Certificate Museum — 16 Collected</h2></summary>
+<summary><h2><img src="./assets/icons/certificate.webp" width="36" align="center" alt=""/> Certificate Museum — 16 Collected</h2></summary>
 
 ### 🌻 Data Science & Machine Learning
 
@@ -91,33 +95,32 @@ This international experience expanded my academic perspective, cross-cultural c
 </details>
 
 <details open>
-<summary><h2>📊 Farm Statistics</h2></summary>
+<summary><h2><img src="./assets/icons/statistics.webp" width="36" align="center" alt=""/> Farm Statistics</h2></summary>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tyasnurkumala2&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
-  <br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tyasnurkumala2&bg_color=ffffff00&color=78a65a&line=e89a6a&point=6f5138&area=true&hide_border=true&custom_title=Contribution%20Garden" alt="Contribution activity graph"/>
-  <br/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tyasnurkumala2&show_icons=true&hide_border=true&title_color=78a65a&icon_color=e89a6a&text_color=6f5138&bg_color=fffaf0" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyasnurkumala2&layout=compact&hide_border=true&title_color=78a65a&text_color=6f5138&bg_color=fffaf0" alt="Top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=tyasnurkumala2&hide_border=true&background=FFFAF0&ring=E89A6A&fire=E89A6A&currStreakLabel=78A65A&sideLabels=6F5138&dates=8B7355" alt="Contribution streak"/>
+
+**15 public repositories · 122 contributions in the last year**
+
+🌱 Active fields: **Machine Learning, Data Science, AI, and health technology**
+
+📌 Featured harvests: **BumpCare Capstone · Machine Learning · BumpCare ML**
+
 </div>
+
+> Statistics use GitHub's native profile data so this section stays reliable without third-party widget servers.
 
 </details>
 
-## 🎧 Coding Soundtrack
+## <img src="./assets/icons/music.webp" width="36" align="center" alt=""/> Coding Soundtrack
 
 <div align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://img.shields.io/badge/Open-Coding%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Coding playlist"/>
-  </a>
+  <a href="https://open.spotify.com/"><b>♫ Open Tyas' Coding Playlist</b></a>
 </div>
 
-## 💌 Availability
+## <img src="./assets/icons/mailbox.webp" width="36" align="center" alt=""/> Availability
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AVAILABLE%20FOR-COLLABORATION-2ea44f?style=for-the-badge" alt="Available for collaboration"/>
+  <b>🌾 Available for collaboration in Data Science, AI/ML, research, and technology for meaningful impact.</b>
   <br/><br/>
   <i>Code is the seed, data is the soil, impact is the harvest.</i>
 </div>
