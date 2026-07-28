@@ -8,16 +8,16 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tyas-nur-kumala-939a16262/"><img src="./assets/icons/network.webp" width="56" alt="LinkedIn"/><br/><b>Town Square</b></a>
+  <a href="https://www.linkedin.com/in/tyas-nur-kumala-939a16262/"><img src="./assets/icons/network-v2.webp" width="56" alt="LinkedIn"/><br/><b>Town Square</b></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tyasnurkumala2@gmail.com"><img src="./assets/icons/email.webp" width="56" alt="Email"/><br/><b>Farm Mail</b></a>
+  <a href="mailto:tyasnurkumala2@gmail.com"><img src="./assets/icons/email-v2.webp" width="56" alt="Email"/><br/><b>Farm Mail</b></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tyasnurkumala2?tab=followers"><img src="./assets/icons/followers.webp" width="56" alt="Followers"/><br/><b>Villagers</b></a>
+  <a href="https://github.com/tyasnurkumala2?tab=followers"><img src="./assets/icons/followers-v2.webp" width="56" alt="Followers"/><br/><b>Villagers</b></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/tyasnurkumala2"><img src="./assets/icons/visitors.webp" width="56" alt="Profile"/><br/><b>Visit Farm</b></a>
+  <a href="https://github.com/tyasnurkumala2"><img src="./assets/icons/visitors-v2.webp" width="56" alt="Profile"/><br/><b>Visit Farm</b></a>
 </div>
 
-## <img src="./assets/icons/farmer.webp" width="36" align="center" alt=""/> About the Farmer
+## <img src="./assets/icons/farmer-v2.webp" width="36" align="center" alt=""/> About the Farmer
 
 
 I'm **Tyas Nur Kumala**, an Informatics Engineering — International Class student at **Telkom University**. I enjoy turning data into useful insights and building intelligent solutions that create meaningful impact.
@@ -37,26 +37,26 @@ tyas = {
 }
 ```
 
-## <img src="./assets/icons/inventory.webp" width="36" align="center" alt=""/> Farmer's Inventory
+## <img src="./assets/icons/inventory-v2.webp" width="36" align="center" alt=""/> Farmer's Inventory
 
 <div align="center">
-  <img src="./assets/icons/python.png" width="72" alt="Python"/>&nbsp;&nbsp;
-  <img src="./assets/icons/machine-learning.png" width="72" alt="Machine Learning"/>&nbsp;&nbsp;
-  <img src="./assets/icons/data.png" width="72" alt="Data"/>&nbsp;&nbsp;
-  <img src="./assets/icons/developer-tools.png" width="72" alt="Developer Tools"/>
+  <img src="./assets/icons/python-v2.webp" width="72" alt="Python"/>&nbsp;&nbsp;
+  <img src="./assets/icons/machine-learning-v2.webp" width="72" alt="Machine Learning"/>&nbsp;&nbsp;
+  <img src="./assets/icons/data-v2.webp" width="72" alt="Data"/>&nbsp;&nbsp;
+  <img src="./assets/icons/developer-tools-v2.webp" width="72" alt="Developer Tools"/>
   <br/>
   <sub><b>Python · Machine Learning · Data · Developer Tools</b></sub><br/>
   <sub>TensorFlow · PyTorch · scikit-learn · PostgreSQL · MySQL · Git · Docker · Figma</sub>
 </div>
 
-## <img src="./assets/icons/quest.webp" width="36" align="center" alt=""/> Featured Quest
+## <img src="./assets/icons/quest-v2.webp" width="36" align="center" alt=""/> Featured Quest
 
 | Project | What it grows | Explore |
 |---|---|---|
 | **BumpCare Capstone** | Maternal-health risk detection application | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-Capstone-Project) |
 | **BumpCare ML** | Machine-learning experiments and models | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-ML) |
 
-## <img src="./assets/icons/mobility.webp" width="36" align="center" alt=""/> International Mobility Programme
+## <img src="./assets/icons/mobility-v2.webp" width="36" align="center" alt=""/> International Mobility Programme
 
 > **Student Mobility Programme 2023**  
 > Universiti Malaya Students' Union · September 2023
@@ -64,7 +64,7 @@ tyas = {
 This international experience expanded my academic perspective, cross-cultural communication, and global connections.
 
 <details open>
-<summary><h2><img src="./assets/icons/certificate.webp" width="36" align="center" alt=""/> Certificate Museum — 16 Collected</h2></summary>
+<summary><h2><img src="./assets/icons/certificate-v2.webp" width="36" align="center" alt=""/> Certificate Museum — 16 Collected</h2></summary>
 
 ### 🌻 Data Science & Machine Learning
 
@@ -95,7 +95,7 @@ This international experience expanded my academic perspective, cross-cultural c
 </details>
 
 <details open>
-<summary><h2><img src="./assets/icons/statistics.webp" width="36" align="center" alt=""/> Farm Statistics</h2></summary>
+<summary><h2><img src="./assets/icons/statistics-v2.webp" width="36" align="center" alt=""/> Farm Statistics</h2></summary>
 
 <div align="center">
 
@@ -111,13 +111,13 @@ This international experience expanded my academic perspective, cross-cultural c
 
 </details>
 
-## <img src="./assets/icons/music.webp" width="36" align="center" alt=""/> Coding Soundtrack
+## <img src="./assets/icons/music-v2.webp" width="36" align="center" alt=""/> Coding Soundtrack
 
 <div align="center">
   <a href="https://open.spotify.com/"><b>♫ Open Tyas' Coding Playlist</b></a>
 </div>
 
-## <img src="./assets/icons/mailbox.webp" width="36" align="center" alt=""/> Availability
+## <img src="./assets/icons/mailbox-v2.webp" width="36" align="center" alt=""/> Availability
 
 <div align="center">
   <b>🌾 Available for collaboration in Data Science, AI/ML, research, and technology for meaningful impact.</b>
