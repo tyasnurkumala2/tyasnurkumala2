@@ -65,15 +65,16 @@ I love turning raw data into useful stories and intelligent solutions. My curren
 | Fundamental Pemrosesan Data | Dicoding Indonesia | Jun 2025 | Jun 2028 | [🔎 Inspect](https://www.dicoding.com/certificates/GRX53V6JYZ0M) |
 | Fundamental Deep Learning | Dicoding Indonesia | Jun 2025 | Jun 2028 | [🔎 Inspect](https://www.dicoding.com/certificates/1RXYE58QQZVM) |
 | Machine Learning untuk Pemula | Dicoding Indonesia | Jun 2025 | Jun 2028 | [🔎 Inspect](https://www.dicoding.com/certificates/0LZ0RK8Q3P65) |
-| Analisis Data dengan Python | Dicoding Indonesia | Mar 2025 | Mar 2028 | [🔎 Inspect](https://www.dicoding.com/certificates/L4PQE7844PO1) |
+| Belajar Fundamental Analisis Data | Dicoding Indonesia | Mar 2025 | Mar 2028 | [🔎 Inspect](https://www.dicoding.com/certificates/L4PQE7844PO1) |
 
 <details>
-<summary><b>🌷 Open the Spring Seed Collection — 9 more certificates</b></summary>
+<summary><b>🌷 Open the Spring Seed Collection — 10 more certificates</b></summary>
 <br>
 
 | Seed packet | Guild | Found | Museum record |
 |---|---|---:|---|
 | Memulai Pemrograman dengan Python | Dicoding Indonesia | Mar 2025 | [🔎 Inspect](https://www.dicoding.com/certificates/GRX53WYKKZ0M) |
+| Financial Literacy 101 | Dicoding Indonesia | — | — |
 | Dasar Structured Query Language (SQL) | Dicoding Indonesia | Feb 2025 | [🔎 Inspect](https://www.dicoding.com/certificates/6RPNRGKVRX2M) |
 | Dasar Visualisasi Data | Dicoding Indonesia | Feb 2025 | [🔎 Inspect](https://www.dicoding.com/certificates/MRZMNY2EKPYQ) |
 | Dasar AI | Dicoding Indonesia | Feb 2025 | [🔎 Inspect](https://www.dicoding.com/certificates/JMZVE3Y6RPN9) |
