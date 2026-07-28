@@ -54,6 +54,14 @@ I love turning raw data into useful stories and intelligent solutions. My curren
 [![Open Quest](https://img.shields.io/badge/Open-BumpCare-f2a3b3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyasnurkumala2/BumpCare-Capstone-Project)
 [![Visit ML Barn](https://img.shields.io/badge/Visit-ML%20Barn-78a65a?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/tyasnurkumala2/BumpCare-ML)
 
+## 🌏 International Quest
+
+### Student Mobility Programme 2023
+
+> **Universiti Malaya Students' Union** · September 2023
+
+Completed an international student mobility programme at Universiti Malaya—an experience that expanded my academic perspective, cross-cultural communication, and global connections.
+
 ## 🏛️ Museum Collection — Certificates
 
 ### 🌻 Rare Artifacts: Data Science & Machine Learning
@@ -68,7 +76,7 @@ I love turning raw data into useful stories and intelligent solutions. My curren
 | Belajar Fundamental Analisis Data | Dicoding Indonesia | Mar 2025 | Mar 2028 | [🔎 Inspect](https://www.dicoding.com/certificates/L4PQE7844PO1) |
 
 <details>
-<summary><b>🌷 Open the Spring Seed Collection — 10 more certificates</b></summary>
+<summary><b>🌷 Open the Spring Seed Collection — 9 more certificates</b></summary>
 <br>
 
 | Seed packet | Guild | Found | Museum record |
@@ -82,7 +90,6 @@ I love turning raw data into useful stories and intelligent solutions. My curren
 | Programming Logic 101 | Dicoding Indonesia | Feb 2025 | [🔎 Inspect](https://www.dicoding.com/certificates/JLX192W25P72) |
 | Dasar Pemrograman untuk Pengembang Software | Dicoding Indonesia | Feb 2025 | [🔎 Inspect](https://www.dicoding.com/certificates/1OP82N5DLPQK) |
 | Career Essentials in Generative AI | Microsoft & LinkedIn | Feb 2024 | — |
-| Student Mobility Programme 2023 | Universiti Malaya Students' Union | Sep 2023 | — |
 
 </details>
 
