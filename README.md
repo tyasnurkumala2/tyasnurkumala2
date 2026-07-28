@@ -98,7 +98,9 @@ This international experience expanded my academic perspective, cross-cultural c
 
 <div align="center">
 
-**15 public repositories · 122 contributions in the last year**
+<!-- FARM_STATS_START -->
+**15 public repositories · 126 contributions in the last year**
+<!-- FARM_STATS_END -->
 
 🌱 Active fields: **Machine Learning, Data Science, AI, and health technology**
 
@@ -106,7 +108,7 @@ This international experience expanded my academic perspective, cross-cultural c
 
 </div>
 
-> Statistics use GitHub's native profile data so this section stays reliable without third-party widget servers.
+> Statistics are refreshed automatically every day using GitHub Actions and GitHub's official APIs.
 
 </details>
 
