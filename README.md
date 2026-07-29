@@ -201,10 +201,7 @@ This international experience expanded my academic perspective, cross-cultural c
 ## <img src="./assets/icons/mailbox-v2.webp" width="36" align="center" alt=""/> Availability
 
 <div align="center">
-  <img src="./assets/availability-spring-night.webp" width="100%" alt="Animated spring-night collaboration village beneath twinkling stars"/>
-  <br/><br/>
-  <img src="./assets/icons/mailbox-v2.webp" width="22" align="center" alt="Mailbox"/>
-  <b>Available for collaboration in Data Science, AI/ML, research, and technology for meaningful impact.</b>
+  <img src="./assets/availability-wooden-sign-v2.webp" width="100%" alt="Wooden garden sign inviting collaboration in Data Science, AI/ML, research, and technology"/>
   <br/><br/>
   <i>Code is the seed, data is the soil, impact is the harvest.</i>
 </div>
