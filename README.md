@@ -47,6 +47,62 @@ tyas = {
   <sub>TensorFlow · PyTorch · scikit-learn · PostgreSQL · MySQL · Git · Docker · Figma</sub>
 </div>
 
+## <img src="./assets/icons/developer-tools-v2.webp" width="36" align="center" alt=""/> Skills & Languages
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 Hard Skills
+
+- Data Analysis & Data Visualization
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Data Preprocessing & Feature Engineering
+- Model Evaluation & Experimentation
+- SQL & Relational Databases
+- Git Version Control
+
+</td>
+<td valign="top" width="50%">
+
+### 🌱 Soft Skills
+
+- Problem Solving & Critical Thinking
+- Teamwork & Collaboration
+- Communication & Presentation
+- Adaptability & Continuous Learning
+- Time Management
+- Research & Analytical Thinking
+- Cross-cultural Collaboration
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🌏 Languages
+
+- 🇮🇩 **Bahasa Indonesia** — Native
+- 🇬🇧 **English** — Professional working proficiency
+
+</td>
+<td valign="top" width="50%">
+
+### 🧰 Tools & Technologies
+
+- **Programming:** Python, SQL
+- **Data:** pandas, NumPy, Microsoft Fabric
+- **AI/ML:** TensorFlow, PyTorch, scikit-learn
+- **Workspace:** Jupyter Notebook, Google Colab, VS Code
+- **Databases:** PostgreSQL, MySQL
+- **Development:** Git, GitHub, Docker
+- **Design:** Figma
+
+</td>
+</tr>
+</table>
+
 ## <img src="./assets/icons/quest-v2.webp" width="36" align="center" alt=""/> Featured Quest
 
 | Project | What it grows | Explore |
