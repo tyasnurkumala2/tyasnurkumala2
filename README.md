@@ -49,32 +49,44 @@ tyas = {
 
 ## <img src="./assets/icons/developer-tools-v2.webp" width="36" align="center" alt=""/> Skills & Languages
 
+### 💻 Programming Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" height="52" alt="Python, JavaScript, HTML5, and CSS3"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="36" alt="SQL"/>
+  <br/>
+  <sub><b>Python · JavaScript · HTML5 · CSS3 · SQL</b></sub>
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td valign="top" width="50%">
 
 ### 🧠 Hard Skills
 
-- Data Analysis & Data Visualization
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Data Preprocessing & Feature Engineering
-- Model Evaluation & Experimentation
-- SQL & Relational Databases
-- Git Version Control
+- 📊 Data Analysis & Visualization
+- 🤖 Machine Learning & Deep Learning
+- 💬 Natural Language Processing
+- 🧹 Data Preprocessing & Feature Engineering
+- 🧪 Model Evaluation & Experimentation
+- 🗄️ SQL & Relational Databases
+- 🌿 Git Version Control
 
 </td>
 <td valign="top" width="50%">
 
 ### 🌱 Soft Skills
 
-- Problem Solving & Critical Thinking
-- Teamwork & Collaboration
-- Communication & Presentation
-- Adaptability & Continuous Learning
-- Time Management
-- Research & Analytical Thinking
-- Cross-cultural Collaboration
+- 🧩 Problem Solving & Critical Thinking
+- 🤝 Teamwork & Collaboration
+- 🎤 Communication & Presentation
+- 🌤️ Adaptability & Continuous Learning
+- ⏳ Time Management
+- 🔬 Research & Analytical Thinking
+- 🌏 Cross-cultural Collaboration
 
 </td>
 </tr>
@@ -83,21 +95,25 @@ tyas = {
 
 ### 🌏 Languages
 
-- 🇮🇩 **Bahasa Indonesia** — Native
-- 🇬🇧 **English** — Professional working proficiency
+<div align="center">
+  <img src="https://img.shields.io/badge/Bahasa_Indonesia-Native-EF3340?style=for-the-badge" alt="Bahasa Indonesia — Native"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/English-Professional_Working_Proficiency-34568B?style=for-the-badge" alt="English — Professional working proficiency"/>
+</div>
 
 </td>
 <td valign="top" width="50%">
 
 ### 🧰 Tools & Technologies
 
-- **Programming:** Python, SQL
-- **Data:** pandas, NumPy, Microsoft Fabric
-- **AI/ML:** TensorFlow, PyTorch, scikit-learn
-- **Workspace:** Jupyter Notebook, Google Colab, VS Code
-- **Databases:** PostgreSQL, MySQL
-- **Development:** Git, GitHub, Docker
-- **Design:** Figma
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,tensorflow,pytorch,sklearn,postgres,mysql,docker,figma&theme=dark" alt="Git, GitHub, VS Code, Jupyter, TensorFlow, PyTorch, scikit-learn, PostgreSQL, MySQL, Docker, and Figma"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
+</div>
 
 </td>
 </tr>
