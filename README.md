@@ -134,6 +134,14 @@ tyas = {
   <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 </div>
 
+<div align="center">
+  <img src="./assets/cat-walking.gif" width="88" alt="Tiny orange pixel-art cat walking"/>&nbsp;&nbsp;&nbsp;
+  <img src="./assets/cat-sleeping.gif" width="88" alt="Tiny cream pixel-art cat sleeping"/>&nbsp;&nbsp;&nbsp;
+  <img src="./assets/cat-watering.gif" width="88" alt="Tiny gray pixel-art cat watering a sprout"/>
+  <br/>
+  <sub>Little farm companions keeping the code garden company.</sub>
+</div>
+
 ## <img src="./assets/icons/quest-v2.webp" width="36" align="center" alt=""/> Featured Quest
 
 | Project | What it grows | Explore |
@@ -162,24 +170,24 @@ This international experience expanded my academic perspective, cross-cultural c
 |---|---|---:|---:|---|
 | **Coding Camp 2025: Machine Learning Engineer** | Dicoding & DBS Foundation | 7 Jul 2025 | Not listed | [View PDF](./assets/certificates/coding-camp-2025-machine-learning-engineer.pdf) |
 | Microsoft Fabric Data Science | Dicoding Indonesia | 28 Oct 2025 | 28 Oct 2028 | [View](https://www.dicoding.com/certificates/6RPNGG0M9Z2M) |
-| Machine Learning Terapan | Dicoding Indonesia | 17 Jun 2025 | 17 Jun 2028 | [View](https://www.dicoding.com/certificates/07Z632W3JZQR) |
-| Fundamental Pemrosesan Data | Dicoding Indonesia | 12 Jun 2025 | 12 Jun 2028 | [View](https://www.dicoding.com/certificates/GRX53V6JYZ0M) |
-| Fundamental Deep Learning | Dicoding Indonesia | 11 Jun 2025 | 11 Jun 2028 | [View](https://www.dicoding.com/certificates/1RXYE58QQZVM) |
-| Machine Learning untuk Pemula | Dicoding Indonesia | 10 Jun 2025 | 10 Jun 2028 | [View](https://www.dicoding.com/certificates/0LZ0RK8Q3P65) |
-| Fundamental Analisis Data | Dicoding Indonesia | 24 Mar 2025 | 24 Mar 2028 | [View](https://www.dicoding.com/certificates/L4PQE7844PO1) |
+| Machine Learning Terapan<br/><sub>Applied Machine Learning</sub> | Dicoding Indonesia | 17 Jun 2025 | 17 Jun 2028 | [View](https://www.dicoding.com/certificates/07Z632W3JZQR) |
+| Fundamental Pemrosesan Data<br/><sub>Data Processing Fundamentals</sub> | Dicoding Indonesia | 12 Jun 2025 | 12 Jun 2028 | [View](https://www.dicoding.com/certificates/GRX53V6JYZ0M) |
+| Fundamental Deep Learning<br/><sub>Deep Learning Fundamentals</sub> | Dicoding Indonesia | 11 Jun 2025 | 11 Jun 2028 | [View](https://www.dicoding.com/certificates/1RXYE58QQZVM) |
+| Machine Learning untuk Pemula<br/><sub>Machine Learning for Beginners</sub> | Dicoding Indonesia | 10 Jun 2025 | 10 Jun 2028 | [View](https://www.dicoding.com/certificates/0LZ0RK8Q3P65) |
+| Fundamental Analisis Data<br/><sub>Data Analysis Fundamentals</sub> | Dicoding Indonesia | 24 Mar 2025 | 24 Mar 2028 | [View](https://www.dicoding.com/certificates/L4PQE7844PO1) |
 
 ### 🌷 Foundations & Other Achievements
 
 | Certificate | Issuer | Terbit | Kedaluwarsa | Credential |
 |---|---|---:|---:|---|
-| Memulai Pemrograman dengan Python | Dicoding Indonesia | 2 Mar 2025 | 2 Mar 2028 | [View](https://www.dicoding.com/certificates/GRX53WYKKZ0M) |
+| Memulai Pemrograman dengan Python<br/><sub>Getting Started with Python Programming</sub> | Dicoding Indonesia | 2 Mar 2025 | 2 Mar 2028 | [View](https://www.dicoding.com/certificates/GRX53WYKKZ0M) |
 | Financial Literacy 101 | Dicoding Indonesia | 27 Apr 2025 | 27 Apr 2028 | [View](https://www.dicoding.com/certificates/JLX19Q5N2P72) |
-| Dasar SQL | Dicoding Indonesia | 23 Feb 2025 | 23 Feb 2028 | [View](https://www.dicoding.com/certificates/6RPNRGKVRX2M) |
-| Dasar Visualisasi Data | Dicoding Indonesia | 20 Feb 2025 | 20 Feb 2028 | [View](https://www.dicoding.com/certificates/MRZMNY2EKPYQ) |
-| Dasar AI | Dicoding Indonesia | 18 Feb 2025 | 18 Feb 2028 | [View](https://www.dicoding.com/certificates/JMZVE3Y6RPN9) |
-| Dasar Git dengan GitHub | Dicoding Indonesia | 15 Feb 2025 | 15 Feb 2028 | [View](https://www.dicoding.com/certificates/1RXYE1W71ZVM) |
+| Dasar SQL<br/><sub>SQL Basics</sub> | Dicoding Indonesia | 23 Feb 2025 | 23 Feb 2028 | [View](https://www.dicoding.com/certificates/6RPNRGKVRX2M) |
+| Dasar Visualisasi Data<br/><sub>Data Visualization Basics</sub> | Dicoding Indonesia | 20 Feb 2025 | 20 Feb 2028 | [View](https://www.dicoding.com/certificates/MRZMNY2EKPYQ) |
+| Dasar AI<br/><sub>AI Fundamentals</sub> | Dicoding Indonesia | 18 Feb 2025 | 18 Feb 2028 | [View](https://www.dicoding.com/certificates/JMZVE3Y6RPN9) |
+| Dasar Git dengan GitHub<br/><sub>Git Fundamentals with GitHub</sub> | Dicoding Indonesia | 15 Feb 2025 | 15 Feb 2028 | [View](https://www.dicoding.com/certificates/1RXYE1W71ZVM) |
 | Programming Logic 101 | Dicoding Indonesia | 15 Feb 2025 | 15 Feb 2028 | [View](https://www.dicoding.com/certificates/JLX192W25P72) |
-| Dasar Pemrograman Pengembang Software | Dicoding Indonesia | 15 Feb 2025 | 15 Feb 2028 | [View](https://www.dicoding.com/certificates/1OP82N5DLPQK) |
+| Dasar Pemrograman Pengembang Software<br/><sub>Programming Fundamentals for Software Developers</sub> | Dicoding Indonesia | 15 Feb 2025 | 15 Feb 2028 | [View](https://www.dicoding.com/certificates/1OP82N5DLPQK) |
 | Career Essentials in Generative AI | Microsoft & LinkedIn | Not listed | : | Not listed |
 | **Student Mobility Programme 2023** | Universiti Malaya & Telkom University | 21 Sep 2023 | Not listed | [View Image](./assets/certificates/student-mobility-programme-2023-universiti-malaya.jpg) |
 
