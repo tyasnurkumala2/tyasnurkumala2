@@ -1,11 +1,6 @@
   <img width="100%" src="./assets/spring-night-code-farm.webp" alt="Tyas' Code Farm animated spring-night pixel-art banner with twinkling stars"/>
   <br/><br/>
 
-  <a href="https://open.spotify.com/track/2q2Z2A0Mt8AsWyQEdB6wuu?si=8ac5dc11b8114408">
-    <img width="100%" src="./assets/tyas-farm-soundtrack-player.gif" alt="Click to play Tyas' animated farm soundtrack on Spotify"/>
-  </a>
-  <br/><br/>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Itim&size=32&duration=2500&pause=900&color=CDBBFF&center=true&vCenter=true&width=750&lines=Welcome+to+Tyas%27+Code+Farm!;Data+Science+%E2%80%A2+AI+%E2%80%A2+Machine+Learning;Planting+ideas%2C+growing+intelligence+%F0%9F%8C%B1" alt="Typing introduction"/>
   </a>
@@ -18,6 +13,7 @@
     <td align="center" width="150"><a href="https://github.com/tyasnurkumala2?tab=followers"><img src="./assets/icons/followers-v2.webp" width="56" alt="Followers"/><br/><strong>Villagers</strong></a></td>
     <td align="center" width="130"><a href="https://github.com/tyasnurkumala2"><img src="./assets/icons/visitors-v2.webp" width="56" alt="Profile"/><br/><strong>Visit Farm</strong></a></td>
     <td align="center" width="130"><a href="https://www.linkedin.com/in/tyas-nur-kumala-939a16262/"><img src="./assets/icons/cv-v2.webp" width="56" alt="CV"/><br/><strong>CV</strong></a></td>
+    <td align="center" width="130"><a href="https://github.com/tyasnurkumala2/Website"><img src="./assets/icons/website-v2.webp" width="56" alt="Website"/><br/><strong>Website</strong></a></td>
   </tr>
 </table>
 
