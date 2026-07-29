@@ -115,13 +115,21 @@ This international experience expanded my academic perspective, cross-cultural c
 ## <img src="./assets/icons/music-v2.webp" width="36" align="center" alt=""/> Coding Soundtrack
 
 <div align="center">
-  <a href="https://open.spotify.com/"><b>♫ Open Tyas' Coding Playlist</b></a>
+  <img src="./assets/coding-soundtrack-farm.webp" width="100%" alt="Cozy pixel-art coding desk with headphones at night"/>
+  <br/><br/>
+  <a href="https://open.spotify.com/">
+    <img src="./assets/icons/music-v2.webp" width="22" align="center" alt="Music"/>
+    <b>Open Tyas' Coding Playlist</b>
+  </a>
 </div>
 
 ## <img src="./assets/icons/mailbox-v2.webp" width="36" align="center" alt=""/> Availability
 
 <div align="center">
-  <b>🌾 Available for collaboration in Data Science, AI/ML, research, and technology for meaningful impact.</b>
+  <img src="./assets/availability-farm.webp" width="100%" alt="Spring pixel-art collaboration board and farm mailbox"/>
+  <br/><br/>
+  <img src="./assets/icons/mailbox-v2.webp" width="22" align="center" alt="Mailbox"/>
+  <b>Available for collaboration in Data Science, AI/ML, research, and technology for meaningful impact.</b>
   <br/><br/>
   <i>Code is the seed, data is the soil, impact is the harvest.</i>
 </div>
