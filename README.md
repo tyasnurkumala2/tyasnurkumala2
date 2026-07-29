@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="./assets/spring-code-farm-banner.png" alt="Tyas' Code Farm spring pixel-art banner"/>
+  <img width="100%" src="./assets/spring-night-code-farm.webp" alt="Tyas' Code Farm animated spring-night pixel-art banner with twinkling stars"/>
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=32&duration=2500&pause=900&color=78A65A&center=true&vCenter=true&width=750&lines=Welcome+to+Tyas%27+Code+Farm!;Data+Science+%E2%80%A2+AI+%E2%80%A2+Machine+Learning;Planting+ideas%2C+growing+intelligence+%F0%9F%8C%B1" alt="Typing introduction"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=32&duration=2500&pause=900&color=CDBBFF&center=true&vCenter=true&width=750&lines=Welcome+to+Tyas%27+Code+Farm!;Data+Science+%E2%80%A2+AI+%E2%80%A2+Machine+Learning;Planting+ideas%2C+growing+intelligence+%F0%9F%8C%B1" alt="Typing introduction"/>
   </a>
 </div>
 
@@ -115,7 +115,7 @@ This international experience expanded my academic perspective, cross-cultural c
 ## <img src="./assets/icons/music-v2.webp" width="36" align="center" alt=""/> Coding Soundtrack
 
 <div align="center">
-  <img src="./assets/coding-soundtrack-farm.webp" width="100%" alt="Cozy pixel-art coding desk with headphones at night"/>
+  <img src="./assets/coding-soundtrack-night.webp" width="100%" alt="Cozy pixel-art coding desk with headphones at night"/>
   <br/><br/>
   <a href="https://open.spotify.com/">
     <img src="./assets/icons/music-v2.webp" width="22" align="center" alt="Music"/>
@@ -126,7 +126,7 @@ This international experience expanded my academic perspective, cross-cultural c
 ## <img src="./assets/icons/mailbox-v2.webp" width="36" align="center" alt=""/> Availability
 
 <div align="center">
-  <img src="./assets/availability-farm.webp" width="100%" alt="Spring pixel-art collaboration board and farm mailbox"/>
+  <img src="./assets/availability-spring-night.webp" width="100%" alt="Animated spring-night collaboration village beneath twinkling stars"/>
   <br/><br/>
   <img src="./assets/icons/mailbox-v2.webp" width="22" align="center" alt="Mailbox"/>
   <b>Available for collaboration in Data Science, AI/ML, research, and technology for meaningful impact.</b>
