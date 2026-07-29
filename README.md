@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td align="center" width="150"><a href="https://www.linkedin.com/in/tyas-nur-kumala-939a16262/"><img src="./assets/icons/linkedin-farm-v3.webp" width="56" alt="LinkedIn"/><br/><strong>LinkedIn</strong></a></td>
-    <td align="center" width="150"><a href="mailto:tyasnurkumala2@gmail.com"><img src="./assets/icons/email-v2.webp" width="56" alt="Email"/><br/><strong>Farm Mail</strong></a></td>
+    <td align="center" width="150"><a href="mailto:tyasnurkumala26@gmail.com"><img src="./assets/icons/email-v2.webp" width="56" alt="Email"/><br/><strong>Farm Mail</strong></a></td>
     <td align="center" width="150"><a href="https://github.com/tyasnurkumala2?tab=followers"><img src="./assets/icons/followers-v2.webp" width="56" alt="Followers"/><br/><strong>Villagers</strong></a></td>
     <td align="center" width="150"><a href="https://github.com/tyasnurkumala2"><img src="./assets/icons/visitors-v2.webp" width="56" alt="Profile"/><br/><strong>Visit Farm</strong></a></td>
   </tr>
