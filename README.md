@@ -11,23 +11,24 @@
     <td align="center" width="150"><a href="https://www.linkedin.com/in/tyas-nur-kumala-939a16262/"><img src="./assets/icons/linkedin-farm-v3.webp" width="56" alt="LinkedIn"/><br/><strong>LinkedIn</strong></a></td>
     <td align="center" width="150"><a href="mailto:tyasnurkumala26@gmail.com"><img src="./assets/icons/email-v2.webp" width="56" alt="Email"/><br/><strong>Farm Mail</strong></a></td>
     <td align="center" width="150"><a href="https://github.com/tyasnurkumala2?tab=followers"><img src="./assets/icons/followers-v2.webp" width="56" alt="Followers"/><br/><strong>Villagers</strong></a></td>
-    <td align="center" width="150"><a href="https://github.com/tyasnurkumala2"><img src="./assets/icons/visitors-v2.webp" width="56" alt="Profile"/><br/><strong>Visit Farm</strong></a></td>
+    <td align="center" width="130"><a href="https://github.com/tyasnurkumala2"><img src="./assets/icons/visitors-v2.webp" width="56" alt="Profile"/><br/><strong>Visit Farm</strong></a></td>
+    <td align="center" width="130"><a href="https://www.linkedin.com/in/tyas-nur-kumala-939a16262/"><img src="./assets/icons/cv-v2.webp" width="56" alt="CV"/><br/><strong>CV</strong></a></td>
   </tr>
 </table>
 
 ## <img src="./assets/icons/farmer-v2.webp" width="36" align="center" alt=""/> About the Farmer
 
 
-I'm **Tyas Nur Kumala**, an Informatics Engineering — International Class student at **Telkom University**. I enjoy turning data into useful insights and building intelligent solutions that create meaningful impact.
+Hi, I'm **Tyas Nur Kumala**. I study Informatics Engineering in the International Class at **Telkom University**. I enjoy working with data, experimenting with machine learning models, and building technology that can be useful in everyday life.
 
-- 🔭 Building **BumpCare**, a maternal-health risk detection project.
-- 🌾 Exploring Data Science, Machine Learning, Deep Learning, NLP, and Generative AI.
-- 🌏 Completed the **Student Mobility Programme 2023** at Universiti Malaya.
-- 📚 Always learning, one commit and one seed at a time.
+- 🔭 I'm currently working on **BumpCare**, a maternal health risk detection project.
+- 🌾 My main interests are Data Science, Machine Learning, Deep Learning, NLP, and Generative AI.
+- 🌏 I joined the **Student Mobility Programme 2023** at Universiti Malaya.
+- 📚 I enjoy learning by building projects and trying new tools.
 
 ```python
 tyas = {
-    "education": "Informatics Engineering — Telkom University",
+    "education": "Informatics Engineering, Telkom University",
     "focus": ["Data Science", "Artificial Intelligence", "Machine Learning"],
     "currently_learning": ["Deep Learning", "NLP", "Microsoft Fabric"],
     "featured_project": "BumpCare",
@@ -52,11 +53,11 @@ tyas = {
 ### 💻 Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" height="52" alt="Python, JavaScript, HTML5, and CSS3"/>
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,laravel&theme=dark" height="52" alt="Python, PHP, JavaScript, HTML5, CSS3, and Laravel"/>
   &nbsp;
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="36" alt="SQL"/>
   <br/>
-  <sub><b>Python · JavaScript · HTML5 · CSS3 · SQL</b></sub>
+  <sub><b>Python · PHP · JavaScript · HTML5 · CSS3 · SQL · Laravel</b></sub>
 </div>
 
 <br/>
@@ -96,9 +97,9 @@ tyas = {
 ### 🌏 Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Bahasa_Indonesia-Native-EF3340?style=for-the-badge" alt="Bahasa Indonesia — Native"/>
+  <img src="https://img.shields.io/badge/Bahasa_Indonesia-Native_Speaker-EF3340?style=for-the-badge" alt="Bahasa Indonesia: Native speaker"/>
   <br/><br/>
-  <img src="https://img.shields.io/badge/English-Professional_Working_Proficiency-34568B?style=for-the-badge" alt="English — Professional working proficiency"/>
+  <img src="https://img.shields.io/badge/English-Study_and_Teamwork-34568B?style=for-the-badge" alt="English: Comfortable for study and teamwork"/>
 </div>
 
 </td>
@@ -107,7 +108,7 @@ tyas = {
 ### 🧰 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,tensorflow,pytorch,sklearn,postgres,mysql,docker,figma&theme=dark" alt="Git, GitHub, VS Code, Jupyter, TensorFlow, PyTorch, scikit-learn, PostgreSQL, MySQL, Docker, and Figma"/>
+  <img src="https://skillicons.dev/icons?i=laravel,git,github,vscode,jupyter,tensorflow,pytorch,sklearn,postgres,mysql,docker,figma&theme=dark" alt="Laravel, Git, GitHub, VS Code, Jupyter, TensorFlow, PyTorch, scikit-learn, PostgreSQL, MySQL, Docker, and Figma"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -134,15 +135,15 @@ tyas = {
 This international experience expanded my academic perspective, cross-cultural communication, and global connections.
 
 <details open>
-<summary><h2><img src="./assets/icons/certificate-v2.webp" width="36" align="center" alt=""/> Certificate Museum — 17 Collected</h2></summary>
+<summary><h2><img src="./assets/icons/certificate-v2.webp" width="36" align="center" alt=""/> Certificate Museum: 17 Collected</h2></summary>
 
-> Tanggal hanya dicantumkan apabila tersedia pada sertifikat atau halaman kredensial. Tanda **—** berarti tidak tercantum pada bukti yang tersedia.
+> Tanggal hanya dicantumkan apabila tersedia pada sertifikat atau halaman kredensial. Tulisan **Not listed** berarti tanggalnya tidak tercantum pada bukti yang tersedia.
 
 ### 🌻 Data Science & Machine Learning
 
 | Certificate | Issuer | Terbit | Kedaluwarsa | Credential |
 |---|---|---:|---:|---|
-| **Coding Camp 2025 — Machine Learning Engineer** | Dicoding & DBS Foundation | 7 Jul 2025 | — | [View PDF](./assets/certificates/coding-camp-2025-machine-learning-engineer.pdf) |
+| **Coding Camp 2025: Machine Learning Engineer** | Dicoding & DBS Foundation | 7 Jul 2025 | Not listed | [View PDF](./assets/certificates/coding-camp-2025-machine-learning-engineer.pdf) |
 | Microsoft Fabric Data Science | Dicoding Indonesia | 28 Oct 2025 | 28 Oct 2028 | [View](https://www.dicoding.com/certificates/6RPNGG0M9Z2M) |
 | Machine Learning Terapan | Dicoding Indonesia | 17 Jun 2025 | 17 Jun 2028 | [View](https://www.dicoding.com/certificates/07Z632W3JZQR) |
 | Fundamental Pemrosesan Data | Dicoding Indonesia | 12 Jun 2025 | 12 Jun 2028 | [View](https://www.dicoding.com/certificates/GRX53V6JYZ0M) |
@@ -162,8 +163,8 @@ This international experience expanded my academic perspective, cross-cultural c
 | Dasar Git dengan GitHub | Dicoding Indonesia | 15 Feb 2025 | 15 Feb 2028 | [View](https://www.dicoding.com/certificates/1RXYE1W71ZVM) |
 | Programming Logic 101 | Dicoding Indonesia | 15 Feb 2025 | 15 Feb 2028 | [View](https://www.dicoding.com/certificates/JLX192W25P72) |
 | Dasar Pemrograman Pengembang Software | Dicoding Indonesia | 15 Feb 2025 | 15 Feb 2028 | [View](https://www.dicoding.com/certificates/1OP82N5DLPQK) |
-| Career Essentials in Generative AI | Microsoft & LinkedIn | — | — | — |
-| **Student Mobility Programme 2023** | Universiti Malaya & Telkom University | 21 Sep 2023 | — | [View Image](./assets/certificates/student-mobility-programme-2023-universiti-malaya.jpg) |
+| Career Essentials in Generative AI | Microsoft & LinkedIn | Not listed | : | Not listed |
+| **Student Mobility Programme 2023** | Universiti Malaya & Telkom University | 21 Sep 2023 | Not listed | [View Image](./assets/certificates/student-mobility-programme-2023-universiti-malaya.jpg) |
 
 </details>
 
