@@ -130,11 +130,10 @@ tyas = {
 ## <img src="./assets/icons/mobility-v2.webp" width="36" align="center" alt=""/> International Mobility Programme
 
 > **Student Mobility Programme 2023**  
-> Universiti Malaya Students' Union · September 2023
+> Universiti Malaya Students' Union · September 2023  
+> [📜 **View Certificate**](./assets/certificates/student-mobility-programme-2023-universiti-malaya.jpg)
 
-<div align="center">
-  <a href="./assets/certificates/student-mobility-programme-2023-universiti-malaya.jpg"><strong>📜 View Certificate</strong></a>
-</div>
+<br/>
 
 This international experience expanded my academic perspective, cross-cultural communication, and global connections.
 
