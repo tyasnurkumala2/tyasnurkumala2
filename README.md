@@ -132,6 +132,10 @@ tyas = {
 > **Student Mobility Programme 2023**  
 > Universiti Malaya Students' Union · September 2023
 
+<div align="center">
+  <a href="./assets/certificates/student-mobility-programme-2023-universiti-malaya.jpg"><strong>📜 View Certificate</strong></a>
+</div>
+
 This international experience expanded my academic perspective, cross-cultural communication, and global connections.
 
 <details open>
