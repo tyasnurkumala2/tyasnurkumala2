@@ -1,6 +1,11 @@
   <img width="100%" src="./assets/spring-night-code-farm.webp" alt="Tyas' Code Farm animated spring-night pixel-art banner with twinkling stars"/>
   <br/><br/>
 
+  <a href="https://open.spotify.com/track/2q2Z2A0Mt8AsWyQEdB6wuu?si=8ac5dc11b8114408">
+    <img width="100%" src="./assets/tyas-farm-soundtrack-player.gif" alt="Click to play Tyas' animated farm soundtrack on Spotify"/>
+  </a>
+  <br/><br/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Itim&size=32&duration=2500&pause=900&color=CDBBFF&center=true&vCenter=true&width=750&lines=Welcome+to+Tyas%27+Code+Farm!;Data+Science+%E2%80%A2+AI+%E2%80%A2+Machine+Learning;Planting+ideas%2C+growing+intelligence+%F0%9F%8C%B1" alt="Typing introduction"/>
   </a>
@@ -217,7 +222,7 @@ This international experience expanded my academic perspective, cross-cultural c
 <div align="center">
   <img src="./assets/coding-soundtrack-night.webp" width="100%" alt="Cozy pixel-art coding desk with headphones at night"/>
   <br/><br/>
-  <a href="https://open.spotify.com/">
+  <a href="https://open.spotify.com/track/2q2Z2A0Mt8AsWyQEdB6wuu?si=8ac5dc11b8114408">
     <img src="./assets/icons/music-v2.webp" width="22" align="center" alt="Music"/>
     <b>Open Tyas' Coding Playlist</b>
   </a>
