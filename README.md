@@ -120,6 +120,20 @@ tyas = {
 </tr>
 </table>
 
+### 🌐 Productivity, Collaboration & Platforms
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" alt="Google Workspace"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+</div>
+
 ## <img src="./assets/icons/quest-v2.webp" width="36" align="center" alt=""/> Featured Quest
 
 | Project | What it grows | Explore |
