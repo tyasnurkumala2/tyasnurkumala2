@@ -63,33 +63,36 @@ tyas = {
 This international experience expanded my academic perspective, cross-cultural communication, and global connections.
 
 <details open>
-<summary><h2><img src="./assets/icons/certificate-v2.webp" width="36" align="center" alt=""/> Certificate Museum — 16 Collected</h2></summary>
+<summary><h2><img src="./assets/icons/certificate-v2.webp" width="36" align="center" alt=""/> Certificate Museum — 17 Collected</h2></summary>
+
+> Tanggal hanya dicantumkan apabila tersedia pada sertifikat atau halaman kredensial. Tanda **—** berarti tidak tercantum pada bukti yang tersedia.
 
 ### 🌻 Data Science & Machine Learning
 
-| Certificate | Issuer | Credential |
-|---|---|---|
-| Microsoft Fabric Data Science | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/6RPNGG0M9Z2M) |
-| Machine Learning Terapan | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/07Z632W3JZQR) |
-| Fundamental Pemrosesan Data | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/GRX53V6JYZ0M) |
-| Fundamental Deep Learning | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/1RXYE58QQZVM) |
-| Machine Learning untuk Pemula | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/0LZ0RK8Q3P65) |
-| Fundamental Analisis Data | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/L4PQE7844PO1) |
+| Certificate | Issuer | Terbit | Kedaluwarsa | Credential |
+|---|---|---:|---:|---|
+| **Coding Camp 2025 — Machine Learning Engineer** | Dicoding & DBS Foundation | 7 Jul 2025 | — | [View PDF](./assets/certificates/coding-camp-2025-machine-learning-engineer.pdf) |
+| Microsoft Fabric Data Science | Dicoding Indonesia | 28 Oct 2025 | 28 Oct 2028 | [View](https://www.dicoding.com/certificates/6RPNGG0M9Z2M) |
+| Machine Learning Terapan | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/07Z632W3JZQR) |
+| Fundamental Pemrosesan Data | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/GRX53V6JYZ0M) |
+| Fundamental Deep Learning | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/1RXYE58QQZVM) |
+| Machine Learning untuk Pemula | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/0LZ0RK8Q3P65) |
+| Fundamental Analisis Data | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/L4PQE7844PO1) |
 
 ### 🌷 Foundations & Other Achievements
 
-| Certificate | Issuer | Credential |
-|---|---|---|
-| Memulai Pemrograman dengan Python | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/GRX53WYKKZ0M) |
-| Financial Literacy 101 | Dicoding Indonesia | — |
-| Dasar SQL | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/6RPNRGKVRX2M) |
-| Dasar Visualisasi Data | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/MRZMNY2EKPYQ) |
-| Dasar AI | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/JMZVE3Y6RPN9) |
-| Dasar Git dengan GitHub | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/1RXYE1W71ZVM) |
-| Programming Logic 101 | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/JLX192W25P72) |
-| Dasar Pemrograman Pengembang Software | Dicoding Indonesia | [View](https://www.dicoding.com/certificates/1OP82N5DLPQK) |
-| Career Essentials in Generative AI | Microsoft & LinkedIn | — |
-| Student Mobility Programme 2023 | Universiti Malaya Students' Union | — |
+| Certificate | Issuer | Terbit | Kedaluwarsa | Credential |
+|---|---|---:|---:|---|
+| Memulai Pemrograman dengan Python | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/GRX53WYKKZ0M) |
+| Financial Literacy 101 | Dicoding Indonesia | — | — | — |
+| Dasar SQL | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/6RPNRGKVRX2M) |
+| Dasar Visualisasi Data | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/MRZMNY2EKPYQ) |
+| Dasar AI | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/JMZVE3Y6RPN9) |
+| Dasar Git dengan GitHub | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/1RXYE1W71ZVM) |
+| Programming Logic 101 | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/JLX192W25P72) |
+| Dasar Pemrograman Pengembang Software | Dicoding Indonesia | — | — | [View](https://www.dicoding.com/certificates/1OP82N5DLPQK) |
+| Career Essentials in Generative AI | Microsoft & LinkedIn | — | — | — |
+| **Student Mobility Programme 2023** | Universiti Malaya & Telkom University | 21 Sep 2023 | — | [View Image](./assets/certificates/student-mobility-programme-2023-universiti-malaya.jpg) |
 
 </details>
 
