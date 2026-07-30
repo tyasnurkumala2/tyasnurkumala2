@@ -200,7 +200,7 @@ This international experience expanded my academic perspective, cross-cultural c
 <div align="center">
 
 <!-- FARM_STATS_START -->
-**7 public repositories · 117 contributions in the last year**
+**8 public repositories · 135 contributions in the last year**
 <!-- FARM_STATS_END -->
 
 🌱 Active fields: **Machine Learning, Data Science, AI, and health technology**
