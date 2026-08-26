@@ -149,6 +149,7 @@ tyas = {
 |---|---|---|
 | **BumpCare Capstone** | Maternal-health risk detection application | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-Capstone-Project) |
 | **BumpCare ML** | Machine-learning experiments and models | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-ML) |
+| **Satgas AI FIF – Use Case Tracker** | Web system to inventory, score, and prioritize AI use cases for Telkom University's AI Task Force | [Open Repository](https://github.com/tyasnurkumala2/Sistem-Inventarisasi-dan-Prioritisasi-Use-Case-AI-untuk-Mendukung-Satgas-AI-FIF) |
 
 ## <img src="./assets/icons/mobility-v2.webp" width="36" align="center" alt=""/> International Mobility Programme
 
