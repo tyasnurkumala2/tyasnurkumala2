@@ -151,6 +151,14 @@ tyas = {
 | **BumpCare ML** | Machine-learning experiments and models | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-ML) |
 | **Satgas AI FIF – Use Case Tracker** | Web system to inventory, score, and prioritize AI use cases for Telkom University's AI Task Force | [Open Repository](https://github.com/tyasnurkumala2/Sistem-Inventarisasi-dan-Prioritisasi-Use-Case-AI-untuk-Mendukung-Satgas-AI-FIF) |
 
+## <img src="./assets/icons/certificate-v2.webp" width="36" align="center" alt=""/> HKI & Intellectual Property
+
+| Ciptaan | Jenis | Nomor Pencatatan | Tahun |
+|---|---|---:|---:|
+| [**Sistem Inventarisasi dan Prioritisasi Use Case Artificial Intelligence**](https://github.com/tyasnurkumala2/Sistem-Inventarisasi-dan-Prioritisasi-Use-Case-AI-untuk-Mendukung-Satgas-AI-FIF) | Program Komputer | 001472377 | 2026 |
+
+<sub>Hak cipta tercatat di Kementerian Hukum Republik Indonesia · diumumkan pertama kali 29 Aug 2026.</sub>
+
 ## <img src="./assets/icons/mobility-v2.webp" width="36" align="center" alt=""/> International Mobility Programme
 
 > **Student Mobility Programme 2023**  
