@@ -256,3 +256,35 @@ This international experience expanded my academic perspective, cross-cultural c
   <br/><br/>
   <i>Code is the seed, data is the soil, impact is the harvest.</i>
 </div>
+
+
+---
+
+## 🩺 Featured Project — Maternal Health Risk Classification
+
+<p align="center">
+  <a href="./Enhancing-Maternal-Health-Risk-Classification/Ver-2/Klasifikasi-Final-v2.ipynb">
+    <img width="92%" src="./Enhancing-Maternal-Health-Risk-Classification/Ver-2/comparison_all_models_chart.png" alt="Maternal health risk classification model comparison"/>
+  </a>
+</p>
+
+An end-to-end machine-learning and deep-learning study for classifying maternal health risk levels. The project covers exploratory analysis, preprocessing, SMOTE, classical ML baselines, MLP optimization, early stopping, model comparison, explainability with SHAP, and false-negative analysis.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8A2BE2?style=for-the-badge" alt="SHAP Explainable AI"/>
+</p>
+
+| Explore | What you will find |
+|---|---|
+| [📓 Main notebook](./Enhancing-Maternal-Health-Risk-Classification/Ver-2/Klasifikasi-Final-v2.ipynb) | Complete experiment workflow and analysis |
+| [📊 Dataset](./Enhancing-Maternal-Health-Risk-Classification/Dataset%20-%20Updated.csv) | Updated maternal-health risk data |
+| [🧠 Best model artifacts](./Enhancing-Maternal-Health-Risk-Classification/Ver-2) | Adamax MLP, scaler, label encoder, and metadata |
+| [📈 Model comparison](./Enhancing-Maternal-Health-Risk-Classification/Ver-2/comparison_all_models.csv) | Evaluation results across all tested models |
+| [🔍 SHAP explanation](./Enhancing-Maternal-Health-Risk-Classification/Ver-2/shap_beeswarm.png) | Feature-level model interpretation |
+
+<p align="center">
+  <a href="./Enhancing-Maternal-Health-Risk-Classification/Ver-2"><b>🌱 Explore the complete project →</b></a>
+</p>
