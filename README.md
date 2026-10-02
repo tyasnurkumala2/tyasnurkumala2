@@ -272,7 +272,20 @@ This international experience expanded my academic perspective, cross-cultural c
 
 **IEEE Paper Code Repository** — This repository contains the coding implementation developed for my IEEE paper on maternal health risk classification. It covers exploratory analysis, preprocessing, SMOTE, classical machine-learning baselines, MLP optimization, early stopping, model comparison, explainability with SHAP, and false-negative analysis.
 
-[📜 View Author Certificate](./assets/certificates/Author.pdf) ·[🎤 View Presenter Certificate](./assets/certificates/Presenter.pdf)
+<div align="center">
+
+### 🏆 ICoDSA 2026 — Author & Presenter
+
+**9th International Conference on Data Science and its Applications**  
+*21–22 September 2026*
+
+**Paper:**  
+*Enhancing Maternal Health Risk Classification through Adamax-Optimized Multilayer Perceptron with Early Stopping and Interpretable Feature Analysis*
+
+<a href="./assets/certificates/Author.pdf"><img src="https://img.shields.io/badge/View-Author_Certificate-0A66C2?style=for-the-badge" alt="View Author Certificate"/></a>
+<a href="./assets/certificates/Presenter.pdf"><img src="https://img.shields.io/badge/View-Presenter_Certificate-6F42C1?style=for-the-badge" alt="View Presenter Certificate"/></a>
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
