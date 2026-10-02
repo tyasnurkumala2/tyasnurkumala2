@@ -1,4 +1,6 @@
   <img width="100%" src="./assets/spring-night-code-farm.webp" alt="Tyas' Code Farm animated spring-night pixel-art banner with twinkling stars"/>
+
+  
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
@@ -269,6 +271,8 @@ This international experience expanded my academic perspective, cross-cultural c
 </p>
 
 **IEEE Paper Code Repository** — This repository contains the coding implementation developed for my IEEE paper on maternal health risk classification. It covers exploratory analysis, preprocessing, SMOTE, classical machine-learning baselines, MLP optimization, early stopping, model comparison, explainability with SHAP, and false-negative analysis.
+
+[📜 View Author Certificate](./assets/certificates/Author.pdf) ·[🎤 View Presenter Certificate](./assets/certificates/Presenter.pdf)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
