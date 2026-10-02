@@ -260,7 +260,7 @@ This international experience expanded my academic perspective, cross-cultural c
 
 ---
 
-## 🩺 Featured Project — Maternal Health Risk Classification
+## 🩺 Enhancing Maternal Health Risk Classification Coding
 
 <p align="center">
   <a href="./Enhancing-Maternal-Health-Risk-Classification/Ver-2/Klasifikasi-Final-v2.ipynb">
@@ -268,7 +268,7 @@ This international experience expanded my academic perspective, cross-cultural c
   </a>
 </p>
 
-An end-to-end machine-learning and deep-learning study for classifying maternal health risk levels. The project covers exploratory analysis, preprocessing, SMOTE, classical ML baselines, MLP optimization, early stopping, model comparison, explainability with SHAP, and false-negative analysis.
+**IEEE Paper Code Repository** — This repository contains the coding implementation developed for my IEEE paper on maternal health risk classification. It covers exploratory analysis, preprocessing, SMOTE, classical machine-learning baselines, MLP optimization, early stopping, model comparison, explainability with SHAP, and false-negative analysis.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
