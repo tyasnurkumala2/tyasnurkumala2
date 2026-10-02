@@ -147,11 +147,12 @@ tyas = {
 
 ## <img src="./assets/icons/quest-v2.webp" width="36" align="center" alt=""/> Featured Quest
 
-| Project | What it grows | Explore |
+| Project | Why it stands out | Explore |
 |---|---|---|
-| **BumpCare Capstone** | Maternal-health risk detection application | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-Capstone-Project) |
-| **BumpCare ML** | Machine-learning experiments and models | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-ML) |
-| **Satgas AI FIF – Use Case Tracker** | Web system to inventory, score, and prioritize AI use cases for Telkom University's AI Task Force | [Open Repository](https://github.com/tyasnurkumala2/Sistem-Inventarisasi-dan-Prioritisasi-Use-Case-AI-untuk-Mendukung-Satgas-AI-FIF) |
+| **Enhancing Maternal Health Risk Classification Coding** | IEEE paper implementation · Author & Presenter at ICoDSA 2026 | [Explore Code](./Enhancing-Maternal-Health-Risk-Classification/Ver-2) |
+| **Satgas AI FIF – Use Case Tracker** | Registered computer-program copyright · AI prioritization system | [Open Repository](https://github.com/tyasnurkumala2/Sistem-Inventarisasi-dan-Prioritisasi-Use-Case-AI-untuk-Mendukung-Satgas-AI-FIF) |
+| **BumpCare Capstone** | End-to-end maternal-health risk detection application | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-Capstone-Project) |
+| **BumpCare ML** | Machine-learning experiments and model development | [Open Repository](https://github.com/tyasnurkumala2/BumpCare-ML) |
 
 ## <img src="./assets/icons/certificate-v2.webp" width="36" align="center" alt=""/> HKI & Intellectual Property
 
@@ -240,28 +241,6 @@ This international experience expanded my academic perspective, cross-cultural c
 
 </details>
 
-## <img src="./assets/icons/music-v2.webp" width="36" align="center" alt=""/> Coding Soundtrack
-
-<div align="center">
-  <img src="./assets/coding-soundtrack-night.webp" width="100%" alt="Cozy pixel-art coding desk with headphones at night"/>
-  <br/><br/>
-  <a href="https://open.spotify.com/track/2q2Z2A0Mt8AsWyQEdB6wuu?si=8ac5dc11b8114408">
-    <img src="./assets/icons/music-v2.webp" width="22" align="center" alt="Music"/>
-    <b>Open Tyas' Coding Playlist</b>
-  </a>
-</div>
-
-## <img src="./assets/icons/mailbox-v2.webp" width="36" align="center" alt=""/> Availability
-
-<div align="center">
-  <img src="./assets/availability-wooden-sign-v2.webp" width="100%" alt="Wooden garden sign inviting collaboration in Data Science, AI/ML, research, and technology"/>
-  <br/><br/>
-  <i>Code is the seed, data is the soil, impact is the harvest.</i>
-</div>
-
-
----
-
 ## 🩺 Enhancing Maternal Health Risk Classification Coding
 
 <p align="center">
@@ -305,3 +284,27 @@ This international experience expanded my academic perspective, cross-cultural c
 <p align="center">
   <a href="./Enhancing-Maternal-Health-Risk-Classification/Ver-2"><b>🌱 Explore the complete project →</b></a>
 </p>
+
+
+## <img src="./assets/icons/music-v2.webp" width="36" align="center" alt=""/> Coding Soundtrack
+
+<div align="center">
+  <img src="./assets/coding-soundtrack-night.webp" width="100%" alt="Cozy pixel-art coding desk with headphones at night"/>
+  <br/><br/>
+  <a href="https://open.spotify.com/track/2q2Z2A0Mt8AsWyQEdB6wuu?si=8ac5dc11b8114408">
+    <img src="./assets/icons/music-v2.webp" width="22" align="center" alt="Music"/>
+    <b>Open Tyas' Coding Playlist</b>
+  </a>
+</div>
+
+## <img src="./assets/icons/mailbox-v2.webp" width="36" align="center" alt=""/> Availability
+
+<div align="center">
+  <img src="./assets/availability-wooden-sign-v2.webp" width="100%" alt="Wooden garden sign inviting collaboration in Data Science, AI/ML, research, and technology"/>
+  <br/><br/>
+  <i>Code is the seed, data is the soil, impact is the harvest.</i>
+</div>
+
+
+---
+
