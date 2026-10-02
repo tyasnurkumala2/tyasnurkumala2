@@ -1,0 +1,11 @@
+{
+    "test": "McNemar's Test (exact)",
+    "comparison": "MLP Adam + ES vs MLP Adamax + ES",
+    "contingency_table": {
+        "b": 0,
+        "c": 2
+    },
+    "p_value": 0.5,
+    "significant_at_0.05": false,
+    "interpretation": "No statistically significant difference between Adam and Adamax"
+}

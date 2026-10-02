@@ -1,0 +1,303 @@
+Epoch 1
+accuracy: 0.8431
+loss: 1.2418
+val_accuracy: 0.9652
+val_loss: 0.8292
+
+Epoch 2
+accuracy: 0.9589
+loss: 0.7421
+val_accuracy: 0.9696
+val_loss: 0.5662
+
+Epoch 3
+accuracy: 0.9681
+loss: 0.5150
+val_accuracy: 0.9739
+val_loss: 0.4118
+
+Epoch 4
+accuracy: 0.9690
+loss: 0.3909
+val_accuracy: 0.9696
+val_loss: 0.3182
+
+Epoch 5
+accuracy: 0.9781
+loss: 0.2985
+val_accuracy: 0.9739
+val_loss: 0.2560
+
+Epoch 6
+accuracy: 0.9717
+loss: 0.2592
+val_accuracy: 0.9696
+val_loss: 0.2143
+
+Epoch 7
+accuracy: 0.9763
+loss: 0.2152
+val_accuracy: 0.9696
+val_loss: 0.1859
+
+Epoch 8
+accuracy: 0.9708
+loss: 0.1889
+val_accuracy: 0.9739
+val_loss: 0.1671
+
+Epoch 9
+accuracy: 0.9772
+loss: 0.1687
+val_accuracy: 0.9739
+val_loss: 0.1512
+
+Epoch 10
+accuracy: 0.9745
+loss: 0.1513
+val_accuracy: 0.9652
+val_loss: 0.1376
+
+Epoch 11
+accuracy: 0.9745
+loss: 0.1368
+val_accuracy: 0.9739
+val_loss: 0.1258
+
+Epoch 12
+accuracy: 0.9818
+loss: 0.1216
+val_accuracy: 0.9696
+val_loss: 0.1270
+
+Epoch 13
+accuracy: 0.9763
+loss: 0.1199
+val_accuracy: 0.9739
+val_loss: 0.1092
+
+Epoch 14
+accuracy: 0.9781
+loss: 0.1083
+val_accuracy: 0.9739
+val_loss: 0.1128
+
+Epoch 15
+accuracy: 0.9808
+loss: 0.1040
+val_accuracy: 0.9696
+val_loss: 0.1072
+
+Epoch 16
+accuracy: 0.9790
+loss: 0.1016
+val_accuracy: 0.9783
+val_loss: 0.1032
+
+Epoch 17
+accuracy: 0.9763
+loss: 0.0959
+val_accuracy: 0.9696
+val_loss: 0.1015
+
+Epoch 18
+accuracy: 0.9827
+loss: 0.0924
+val_accuracy: 0.9739
+val_loss: 0.0977
+
+Epoch 19
+accuracy: 0.9827
+loss: 0.0903
+val_accuracy: 0.9739
+val_loss: 0.1022
+
+Epoch 20
+accuracy: 0.9772
+loss: 0.0990
+val_accuracy: 0.9739
+val_loss: 0.0928
+
+Epoch 21
+accuracy: 0.9863
+loss: 0.0749
+val_accuracy: 0.9696
+val_loss: 0.0964
+
+Epoch 22
+accuracy: 0.9836
+loss: 0.0845
+val_accuracy: 0.9739
+val_loss: 0.0906
+
+Epoch 23
+accuracy: 0.9818
+loss: 0.0879
+val_accuracy: 0.9739
+val_loss: 0.0878
+
+Epoch 24
+accuracy: 0.9726
+loss: 0.1057
+val_accuracy: 0.9739
+val_loss: 0.0967
+
+Epoch 25
+accuracy: 0.9790
+loss: 0.0907
+val_accuracy: 0.9739
+val_loss: 0.0967
+
+Epoch 26
+accuracy: 0.9863
+loss: 0.0726
+val_accuracy: 0.9696
+val_loss: 0.1053
+
+Epoch 27
+accuracy: 0.9781
+loss: 0.0879
+val_accuracy: 0.9739
+val_loss: 0.0938
+
+Epoch 28
+accuracy: 0.9836
+loss: 0.0825
+val_accuracy: 0.9739
+val_loss: 0.0963
+
+Epoch 29
+accuracy: 0.9863
+loss: 0.0772
+val_accuracy: 0.9739
+val_loss: 0.1028
+
+Epoch 30
+accuracy: 0.9827
+loss: 0.0820
+val_accuracy: 0.9739
+val_loss: 0.0992
+
+Epoch 31
+accuracy: 0.9827
+loss: 0.0803
+val_accuracy: 0.9696
+val_loss: 0.1034
+
+Epoch 32
+accuracy: 0.9827
+loss: 0.0854
+val_accuracy: 0.9739
+val_loss: 0.0979
+
+Epoch 33
+accuracy: 0.9845
+loss: 0.0746
+val_accuracy: 0.9783
+val_loss: 0.0902
+
+Epoch 34
+accuracy: 0.9799
+loss: 0.0874
+val_accuracy: 0.9739
+val_loss: 0.1064
+
+Epoch 35
+accuracy: 0.9863
+loss: 0.0705
+val_accuracy: 0.9783
+val_loss: 0.1119
+
+Epoch 36
+accuracy: 0.9818
+loss: 0.0767
+val_accuracy: 0.9696
+val_loss: 0.0965
+
+Epoch 37
+accuracy: 0.9881
+loss: 0.0622
+val_accuracy: 0.9696
+val_loss: 0.0990
+
+Epoch 38
+accuracy: 0.9808
+loss: 0.0791
+val_accuracy: 0.9696
+val_loss: 0.1103
+
+Epoch 39
+accuracy: 0.9881
+loss: 0.0692
+val_accuracy: 0.9696
+val_loss: 0.1043
+
+Epoch 40
+accuracy: 0.9836
+loss: 0.0746
+val_accuracy: 0.9739
+val_loss: 0.1031
+
+Epoch 41
+accuracy: 0.9854
+loss: 0.0773
+val_accuracy: 0.9739
+val_loss: 0.1086
+
+Epoch 42
+accuracy: 0.9790
+loss: 0.0805
+val_accuracy: 0.9652
+val_loss: 0.1248
+
+Epoch 43
+accuracy: 0.9881
+loss: 0.0784
+val_accuracy: 0.9696
+val_loss: 0.0990
+
+Epoch 44
+accuracy: 0.9863
+loss: 0.0782
+val_accuracy: 0.9739
+val_loss: 0.1120
+
+Epoch 45
+accuracy: 0.9900
+loss: 0.0654
+val_accuracy: 0.9739
+val_loss: 0.1044
+
+Epoch 46
+accuracy: 0.9845
+loss: 0.0697
+val_accuracy: 0.9826
+val_loss: 0.1008
+
+Epoch 47
+accuracy: 0.9836
+loss: 0.0784
+val_accuracy: 0.9652
+val_loss: 0.1291
+
+Epoch 48
+accuracy: 0.9863
+loss: 0.0764
+val_accuracy: 0.9696
+val_loss: 0.1176
+
+Epoch 49
+accuracy: 0.9891
+loss: 0.0623
+val_accuracy: 0.9696
+val_loss: 0.1232
+
+Epoch 50
+accuracy: 0.9854
+loss: 0.0688
+val_accuracy: 0.9652
+val_loss: 0.1180
+
+=== FINAL RESULT ===
+Final Train Accuracy: 0.9854
+Final Validation Accuracy: 0.9652

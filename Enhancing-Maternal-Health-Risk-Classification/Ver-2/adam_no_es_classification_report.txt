@@ -1,0 +1,10 @@
+Classification Report — MLP Adam (Without ES)
+
+              precision    recall  f1-score   support
+
+        High       0.95      0.97      0.96        93
+         Low       0.98      0.96      0.97       137
+
+    accuracy                           0.97       230
+   macro avg       0.96      0.97      0.96       230
+weighted avg       0.97      0.97      0.97       230

@@ -1,0 +1,76 @@
+{
+    "model_name": "MLP Adamax with Early Stopping",
+    "saved_at": "2026-06-24 07:18:15",
+    "task": "Binary Classification",
+    "classes": [
+        "High",
+        "Low"
+    ],
+    "num_classes": 2,
+    "num_features": 11,
+    "feature_names": [
+        "Age",
+        "Systolic BP",
+        "Diastolic",
+        "BS",
+        "Body Temp",
+        "BMI",
+        "Previous Complications",
+        "Preexisting Diabetes",
+        "Gestational Diabetes",
+        "Mental Health",
+        "Heart Rate"
+    ],
+    "total_samples": 1148,
+    "training_samples": 918,
+    "validation_samples": 230,
+    "architecture": {
+        "layers": [
+            128,
+            64,
+            32,
+            2
+        ],
+        "activations": [
+            "relu",
+            "relu",
+            "relu",
+            "softmax"
+        ],
+        "dropout_rates": [
+            0.5,
+            0.3,
+            0.2
+        ],
+        "regularizer": "L2(0.01)"
+    },
+    "training_config": {
+        "optimizer": "Adamax",
+        "learning_rate": 0.005,
+        "loss": "sparse_categorical_crossentropy",
+        "batch_size": 16,
+        "max_epochs": 50,
+        "early_stopping": {
+            "monitor": "val_loss",
+            "patience": 10,
+            "restore_best_weights": true
+        },
+        "actual_epochs": 46,
+        "smote": true,
+        "random_seed": 42
+    },
+    "performance": {
+        "accuracy": 0.982609,
+        "auc": 0.998195,
+        "false_negative": 3,
+        "cv_mean_accuracy": 0.976506,
+        "cv_std_accuracy": 0.013483,
+        "cv_mean_auc": 0.997673,
+        "cv_std_auc": 0.0021
+    },
+    "files": {
+        "model": "best_model_mlp_adamax_es.keras",
+        "scaler": "best_model_scaler.pkl",
+        "label_encoder": "best_model_label_encoder.pkl"
+    }
+}

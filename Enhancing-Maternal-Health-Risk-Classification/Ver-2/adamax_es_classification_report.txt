@@ -1,0 +1,10 @@
+Classification Report — MLP Adamax (With ES)
+
+              precision    recall  f1-score   support
+
+        High       0.99      0.97      0.98        93
+         Low       0.98      0.99      0.99       137
+
+    accuracy                           0.98       230
+   macro avg       0.98      0.98      0.98       230
+weighted avg       0.98      0.98      0.98       230
